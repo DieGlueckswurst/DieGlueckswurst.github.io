@@ -53896,7 +53896,7 @@ return new A.Bv(1/q.gBT(q),1/(0.05*p))})
 s($,"agK","a6C",()=>A.a69(0.78)/A.a69(0.9))
 s($,"aj1","a7T",()=>new A.OS(A.x(t.N,A.a2("af<bn?>?(bn?)"))))
 r($,"agv","a6w",()=>{var q=null
-return A.iZ(q,q,B.aK,q,q,q,q,q,"Gloss_and_Bloom",q,q,50,q,q,q,1.3,!0,q,q,q,q,q,q,B.P,q)})
+return A.iZ(q,q,B.aK,q,q,q,q,q,"Gloss_and_Bloom",q,q,50,q,q,q,2,!0,q,q,q,q,q,q,B.P,q)})
 r($,"agw","a6x",()=>{var q=null
 return A.iZ(q,q,B.aK,q,q,q,q,q,"Montserrat",q,q,27,q,q,q,q,!0,q,q,q,q,q,q,q,q)})
 r($,"agx","a_a",()=>$.a6x().BG(B.cu))
